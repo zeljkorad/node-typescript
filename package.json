@@ -1,0 +1,17 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "Node.js TypeScript Starter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zeljko Radic",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mocha": "^5.2.0",
+    "node": "^10.10.0",
+    "typescript-eslint-parser": "^18.0.0"
+  }
+}
